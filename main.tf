@@ -12,6 +12,6 @@ provider "azurerm" {
 }
 
 resource "azurerm_resource_group" "rg" {
-  name     = "my-simple-rg-2"
+  name     = "my-simple-rg-22"
   location = "West Europe"
 }
